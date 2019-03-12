@@ -4,7 +4,7 @@
 
 
 使用到的 R 语言包：
-    ggplot2
+    ggplot2 
     jiebaR
     wordcloud2
 
